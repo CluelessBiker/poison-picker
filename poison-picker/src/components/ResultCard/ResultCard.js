@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 import styles from "./ResultCard.module.css";
 
 const ResultCard = ({ card }) => {
+
   return (
     <div className={styles.main}>
         <div>
